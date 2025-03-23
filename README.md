@@ -64,23 +64,9 @@ CoinGecko API: For fetching cryptocurrency data.
 
 Setup Instructions
 Prerequisites
-Xcode installed (version 13 or later).
+Xcode installed (version 16 or later).
+Swift Package Manager for dependency management.
 
-CocoaPods or Swift Package Manager for dependency management.
-
-Steps to Run the Project
-Clone the Repository:
-
-bash
-Copy
-git clone https://github.com/your-username/crypto-tracker-app.git
-cd crypto-tracker-app
-Install Dependencies:
-If using CocoaPods:
-
-bash
-Copy
-pod install
 If using Swift Package Manager, add the required dependencies in Xcode.
 
 Open the Project:
